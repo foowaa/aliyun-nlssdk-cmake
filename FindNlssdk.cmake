@@ -10,8 +10,6 @@
 #
 #  NLSSDK_FOUND - True if Alibaba NlsSDK was found.
 #
-# Original Author:
-# 2019 Hai Liang Wang <hain@chatopera.com>
 #
 # Copyright Chatopera Inc. 2019.
 include(FindPackageHandleStandardArgs)
